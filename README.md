@@ -1,4 +1,4 @@
-# Nets Easy - iOS SDK v1.6.1 (Swift Package Manager) 1.6.2
+# Nets Easy - iOS SDK v1.6.2 (Swift Package Manager)
 
 
 This is dedicated repository for Swift Package Manager (SPM) distribution for the Nets Easy - iOS SDK . It provides tagged, binary releases for easy and lightweigt integration.
